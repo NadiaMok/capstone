@@ -1,0 +1,27 @@
+Vlad:
+-- male videos
+-- video editing
+-- front end for admin
+-- menu: choose body part to exercise
+
+Milad and Parisa: 
+-- gps
+-- calendar: add, edit, remove
+-- notifications
+-- history of workouts (screen)
+
+Nadia: 
+-- female videos
+
+----------------------------------
+VIDEOS (10 x 5-6s):
+* Bench Dip - Triceps
+* Push Up - Chest
+* Shoulder Circles - Shoulders
+* Pull Ups - Biceps
+* Plank (elbows) - Core
+* Superman - Back
+* Modified Push Up - Forearm
+* Prisoner Squad - Upper Legs
+* Lunges - Glutes
+* Calf Raises - Calves
