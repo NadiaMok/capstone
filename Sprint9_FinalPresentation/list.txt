@@ -1,0 +1,20 @@
+1.  Link to the Source Code repository:
+    *** ask for git id / send zips?
+    User Module: https://github.com/mahdiesmaeelpour/CapstoneII
+    Administrator Module: [URL]
+    Project Documentation: https://github.com/NadiaMok/capstone
+
+2.  A document giving instructions to load/run your software. 
+    Please include login or any other required information/links;
+4.  Presentation material-ppt
+    Intro of team/role
+    Project goals
+    Detailed Demo of Completed Project (with valid sample data)
+    Technologies used
+    Conclusion (deployment, Project Closure Report).
+
+
+
+3.  Project Closure Report
+5.  Minutes of Meeting (for meetings after Sprint 8)
+6.  Peer Evaluation for Sprint 8 + Sprint 9 (combined);
